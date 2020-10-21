@@ -1,0 +1,10 @@
+name: scpsl
+main: tk.mythicaldimensions.scpsl.ScpslPlugin
+version: 0.1.32.1
+api-version: 1.15
+author: [Empty]
+description: scpsl Minigame
+depend: [mythicalEssentials]
+commands:
+   scpsl:
+      description: Base scpsl command
