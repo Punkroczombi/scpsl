@@ -6,8 +6,9 @@ import tk.mythicaldimensions.scpsl.config.*;
 import org.bukkit.scoreboard.*;
 import org.bukkit.*;
 import org.bukkit.plugin.*;
+
+import tk.mythicaldimensions.essentials.utility.Npc;
 import tk.mythicaldimensions.scpsl.commands.*;
-import tk.mythicaldimensions.essentials.utility.*;
 import org.bukkit.command.*;
 import org.bukkit.inventory.*;
 import tk.mythicaldimensions.scpsl.utility.*;
